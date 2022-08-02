@@ -1,3 +1,3 @@
 # QA
 ________________________________
-Aqui apresento alguns materiais de auxílio para a área de qualidade.
+Aqui apresento alguns materiais dentro da área de qualidade
